@@ -1,0 +1,9 @@
+datasets
+transformers
+torch
+mlflow
+openai
+seaborn
+matplotlib
+emoji
+torchvision

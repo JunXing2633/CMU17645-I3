@@ -1,0 +1,1 @@
+openai_api_key = "sk-" #Enter your own
